@@ -11,7 +11,7 @@
 ## 動作確認
 
 1. VSCode のプラグイン、[Remote - Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)をインストール
-2. `$ npm install`
+2. vue-project に入り、`$ npm install`
 3. Docker を起動
 4. コンテナ内でサーバーを起動する
    1. VSCode のプラグイン、Remote-Containers でコンテナにアクセスする。
